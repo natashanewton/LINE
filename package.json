@@ -1,0 +1,17 @@
+{
+  "name": "node-api",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "dotenv": "^9.0.2",
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "socket.io": "^4.1.1",
+    "twilio": "^3.62.0",
+    "viber-bot": "^1.0.16",
+    "base-64": "^0.1.0",
+    "ngrok": "^3.2.5",
+    "node-fetch": "^2.6.0",
+    "@line/bot-sdk": "^7.3.0"
+  }
+}
